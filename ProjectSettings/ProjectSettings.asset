@@ -131,7 +131,6 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 11400000, guid: 714cd6c4f8e652a4a85946ca9fe72491, type: 2}
   - {fileID: -5136813535310270333, guid: c4e15698adce47446aa2e9a1cf8b879c, type: 2}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -690,7 +689,7 @@ PlayerSettings:
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
-  allowUnsafeCode: 0
+  allowUnsafeCode: 1
   useDeterministicCompilation: 1
   useReferenceAssemblies: 1
   enableRoslynAnalyzers: 1
