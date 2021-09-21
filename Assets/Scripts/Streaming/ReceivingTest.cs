@@ -9,6 +9,9 @@ using UnityEngine.UI;
 
 public class ReceivingTest : MonoBehaviour
 {
+    public delegate void OnEntrancePasswordSubmited(string password);
+    public static OnEntrancePasswordSubmited entrancePasswordSubmited;
+
     #region Editor variables
     [SerializeField]
     private TMP_InputField _userNameInput;
@@ -36,10 +39,16 @@ public class ReceivingTest : MonoBehaviour
     #region Monobehaviour methods
     private void OnEnable()
     {
-        _startStreamButton.onClick.AddListener(JoinStream);
-        _leaveStreamButton.onClick.AddListener(Leave);
-        _userNameInput.text = "UnityClient";
-        _channelNameInput.text = "123";
+        entrancePasswordSubmited += DisplayPassword;
+        //_startStreamButton.onClick.AddListener(JoinStream);
+        //_leaveStreamButton.onClick.AddListener(Leave);
+        //_userNameInput.text = "UnityClient";
+        //_channelNameInput.text = "123";
+    }
+
+    private void DisplayPassword(string password)
+    {
+        Debug.Log(password);
     }
 
     private void OnDisable()
@@ -76,4 +85,9 @@ public class ReceivingTest : MonoBehaviour
         _receiving.Leave();
     }
     #endregion
+
+    public void SubmitName(string name)
+    {
+        Debug.Log(name);
+    }
 }

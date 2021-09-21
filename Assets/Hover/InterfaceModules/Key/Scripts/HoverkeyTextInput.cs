@@ -1,6 +1,7 @@
 ﻿using System;
 using Hover.Core.Items.Types;
 using Hover.Core.Utils;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,7 +12,7 @@ namespace Hover.InterfaceModules.Key {
 	public class HoverkeyTextInput : MonoBehaviour {
 
 		public HoverkeyInterface Hoverkey;
-		public InputField InputField;
+		public TMP_InputField InputField;
 
 		public int CursorIndex = 0;
 
