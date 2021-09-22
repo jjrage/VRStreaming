@@ -623,7 +623,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     1: BAKERY_INCLUDED
-    7: BAKERY_INCLUDED
+    7: BAKERY_INCLUDED;NET_STANDARD_2_0
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -641,7 +641,7 @@ PlayerSettings:
   assemblyVersionValidation: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform:
-    Android: 3
+    Android: 6
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: VRStreaming
