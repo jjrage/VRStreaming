@@ -27,7 +27,7 @@
     {
         get
         {
-            return "http://localhost:8080/sync";
+            return "http://10.10.150.68:8080/sync";
         }
     }
     internal bool AudioOnly

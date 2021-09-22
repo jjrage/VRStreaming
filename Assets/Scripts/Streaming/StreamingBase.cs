@@ -436,9 +436,9 @@ namespace StreamingLibraryInternal
                 }
                 OnStreamInited?.Invoke();
             }
-            catch
+            catch (Exception ex)
             {
-                Debug.LogError("Error while register client");
+                Debug.LogError($"Error while register client: {ex.Message}");
             }
         }
 

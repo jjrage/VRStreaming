@@ -48,6 +48,7 @@ public class ReceivingTest : MonoBehaviour
 
     private void DisplayPassword(string password)
     {
+        JoinStream("VRStreaming", password);
         Debug.Log(password);
     }
 
@@ -78,6 +79,22 @@ public class ReceivingTest : MonoBehaviour
             _receiving.JoinChannel(_userNameInput.text, _channelNameInput.text);
         }
     }
+    private void JoinStream(string channel, string name)
+    {
+        if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(channel))
+        {
+            StreamingLibrary.AudioSettings audioSettings = new StreamingLibrary.AudioSettings();
+            ReceivingServiceSettings receivingServiceSettings = new ReceivingServiceSettings(_materialForDisplay, audioSettings);
+            receivingServiceSettings.ReceiveOwnMessages = true;
+            if (_receiving == null)
+            {
+                _receiving = new Receiving(receivingServiceSettings); //Streaming service initialization with prefered settings
+            }
+
+            //Method for starting stream. Please, start stream only with valid username and channel name
+            _receiving.JoinChannel(name, channel);
+        }
+    }
 
     //Leave streaming channel. Please, leave streaming channel before exit playmode
     private void Leave()
@@ -88,6 +105,7 @@ public class ReceivingTest : MonoBehaviour
 
     public void SubmitName(string name)
     {
+        
         Debug.Log(name);
     }
 }

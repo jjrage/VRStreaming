@@ -64,7 +64,7 @@ namespace Hover.InterfaceModules.Key {
 		/*--------------------------------------------------------------------------------------------*/
 		public bool IsInShiftMode {
 			get {
-				return (IsLeftShiftSelected || IsRightShiftSelected || IsCapsLockActive);
+				return (IsLeftShiftSelected);
 			}
 		}
 
