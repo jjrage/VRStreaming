@@ -40,6 +40,7 @@ public class ReceivingTest : MonoBehaviour
     private void OnEnable()
     {
         entrancePasswordSubmited += DisplayPassword;
+        _materialForDisplay.SetTextureScale("_MainTex", new Vector2(-1, 1));
         //_startStreamButton.onClick.AddListener(JoinStream);
         //_leaveStreamButton.onClick.AddListener(Leave);
         //_userNameInput.text = "UnityClient";
