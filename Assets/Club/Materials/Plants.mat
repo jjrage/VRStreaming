@@ -21,19 +21,26 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Plants
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: d4e0dc96211d342428ec2183a1b410a6, type: 3}
   m_ShaderKeywords: _ALPHATEST_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
-  m_CustomRenderQueue: 3050
-  stringTagMap:
-    RenderType: Transparent
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
   disabledShaderPasses:
   - SHADOWCASTER
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_70a155059e804d7b9d2fa786e946dc4a:
+        m_Texture: {fileID: 2800000, guid: d96bfbc48c647d0458c52d6ad1b0cb0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_84f6a18128504e2bbb339392953cd6b4:
+        m_Texture: {fileID: 2800000, guid: e030612ac309384439d3bbba24e052e2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _AlphaTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -112,6 +119,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - PixelSnap: 0
+    - Vector1_55029791bf7b4af59440452210c66b3c: 0.097
+    - Vector1_f6531376ebe64043b0e771a4f8f94f5d: 0.39
     - _AlphaClip: 1
     - _Blend: 0
     - _BumpScale: 1
@@ -152,6 +161,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
+    - Color_411f980237604260a8d1277f4a7a9f29: {r: 0, g: 0, b: 0, a: 0}
+    - Color_dd9c42104c7d4b40afac117037b62f38: {r: 0.41509432, g: 0.41509432, b: 0.41509432, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
@@ -162,3 +173,4 @@ Material:
     - _Specular: {r: 0, g: 0, b: 0, a: 0}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

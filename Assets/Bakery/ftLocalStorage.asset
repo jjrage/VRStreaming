@@ -24,4 +24,5 @@ MonoBehaviour:
   - Assets/Club/Models/Sofa.fbx
   - Assets/Club/Models/Table.fbx
   - Assets/Club/Models/Dance_Floor.fbx
-  modifiedAssetPaddingHash: aaf8cc2e83acfd39a7b8c8f2b5a9a971fe4945be3a3e2b10278815bc216907da302020038992091bff7a1a63
+  - Assets/Club/Models/Dynamic.fbx
+  modifiedAssetPaddingHash: aaf8cc2e83acfd39a7b8c8f2b5a9a971fe4945be3a3e2b10278815bc216907da302020038992091bff7a1a63fe4945be

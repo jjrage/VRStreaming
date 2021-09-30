@@ -25,7 +25,7 @@ MonoBehaviour:
   - Assets/Club/Models/Table.fbx
   - Assets/Club/Models/Dance_Floor.fbx
   - Assets/Club/Models/Stairs.fbx
-  modifiedAssetPaddingHash: aaf8cc2e278815bc000000003a3e2b10fe4945beb5a9a9713020200383acfd39216907da8992091bff7a1a63a7b8c8f2
+  modifiedAssetPaddingHash: aaf8cc2e278815bcfe4945be3a3e2b10fe4945beb5a9a9713020200383acfd39216907da8992091bff7a1a63a7b8c8f2
   modifiedMeshList: []
   modifiedMeshPaddingList: 
   modifiedAssets:
@@ -555,10 +555,14 @@ MonoBehaviour:
   - Assets/Club/Models/Table 1.fbx
   - Assets/Club/Models/Roof_Table.fbx
   - Assets/Club/Models/BakeLight.fbx
-  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000
+  - Assets/Club/Models/Dynamic.fbx
+  - Assets/Club/Models/Flares.fbx
+  - Assets/Club/Models/Wall_Light.fbx
+  - Assets/Club/Models/RoofCubeLight.fbx
+  uvOverlapAssetList: 00000000ffffffff010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
-  gpuName: NVIDIA GeForce GTX 1660 SUPER
+  gpuName: NVIDIA GeForce GTX 970
   runsNonRTX: 1
   runsOptix5: 1
   runsOptix6: 1

@@ -15,7 +15,7 @@ MonoBehaviour:
   resolution: 2048
   bitmask: 1
   id: 1
-  sortingID: 1
+  sortingID: 2
   isImplicit: 0
   area: 0
   totalVertexCount: 0
@@ -27,7 +27,7 @@ MonoBehaviour:
   mode: 1
   renderMode: 1000
   renderDirMode: 1000
-  atlasPacker: 1000
+  atlasPacker: 1
   computeSSS: 0
   sssSamples: 16
   sssDensity: 10
@@ -40,4 +40,4 @@ MonoBehaviour:
   overridePath: 
   fixPos3D: 0
   voxelSize: {x: 1, y: 1, z: 1}
-  passedFilter: 4
+  passedFilter: 1

@@ -23,7 +23,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: DanceFloor
-    second: {fileID: 2100000, guid: b249007e25aa52247bddf95f56feca26, type: 2}
+    second: {fileID: 2100000, guid: 9768f214591ba2245bc8affaacb1099c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

@@ -37,11 +37,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: SpotWall
-    second: {fileID: 2100000, guid: 390b0d8dbf3ed3e41bfea22f1b2f15f0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: WallDown
     second: {fileID: 2100000, guid: cf2a185f8e3e0f54aa3da0608959c864, type: 2}
   - first:
