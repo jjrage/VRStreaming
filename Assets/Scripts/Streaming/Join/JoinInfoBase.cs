@@ -20,14 +20,14 @@
     {
         get
         {
-            return "605f7e8e097442488e0b38adb2e218c28039be4906ed4ec8ad455968ecaaa900";
+            return "0cd898db1abd408f86aaf2e55146a9820ee86c3c2c5247d39f15f8afd86df093";
         }
     }
     internal string Gateway
     {
         get
         {
-            return "http://10.10.150.68:8080/sync";
+            return "http://192.168.0.101:8080/sync";
         }
     }
     internal bool AudioOnly
