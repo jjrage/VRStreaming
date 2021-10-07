@@ -15,9 +15,9 @@ TagManager:
   - Player
   - Door
   - PostProcessing
-  - 
-  - 
-  - 
+  - Interactable
+  - Hands
+  - Head
   - 
   - 
   - 
