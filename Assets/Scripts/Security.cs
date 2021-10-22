@@ -7,6 +7,10 @@ using UnityEngine.XR.Interaction.Toolkit;
 public class Security : MonoBehaviour
 {
     #region Public Fields
+    public delegate void GameInfo();
+    public static event GameInfo OnGameInfo;
+    public delegate void ClubEnter();
+    public static event ClubEnter OnClubEnter;
     #endregion
 
     #region Editor Fields
@@ -19,11 +23,6 @@ public class Security : MonoBehaviour
     #endregion
 
     #region MonoBehaviour
-    private void OnEnable()
-    {
-        
-    }
-
     private void Awake()
     {
         m_interactable.selectEntered.AddListener(SecuritySelected);
@@ -49,21 +48,6 @@ public class Security : MonoBehaviour
         Debug.Log("Security selected");
         RadialMenu.SetActions(m_securityActions);
     }
-
-    private void Start()
-    {
-
-    }
-
-    private void Update()
-    {
-
-    }
-
-    private void OnDisable()
-    {
-        
-    }
     #endregion
 
     #region Public Methods
@@ -73,11 +57,13 @@ public class Security : MonoBehaviour
     private void FaceControllAction()
     {
         Debug.Log("Face controll action proceeded");
+        OnClubEnter?.Invoke();
     }
 
     private void ClubInformationAction()
     {
         Debug.Log("Club information action proceeded");
+        OnGameInfo?.Invoke();
     }
     #endregion
 }

@@ -559,7 +559,19 @@ MonoBehaviour:
   - Assets/Club/Models/Flares.fbx
   - Assets/Club/Models/Wall_Light.fbx
   - Assets/Club/Models/RoofCubeLight.fbx
-  uvOverlapAssetList: 00000000ffffffff010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000
+  - Assets/ExampleAssets/Models/safetygoggles_low.fbx
+  - Assets/ExampleAssets/Models/ConstructionLight_Low.fbx
+  - Assets/ExampleAssets/Models/paintbucket_low.fbx
+  - Assets/ExampleAssets/Models/Workshop_Set.fbx
+  - Assets/ExampleAssets/Models/hammer_low.fbx
+  - Assets/ExampleAssets/Models/magneticlevel_low.fbx
+  - Assets/ExampleAssets/Models/jigsaw_low.fbx
+  - Assets/ExampleAssets/Models/safetyhat_low.fbx
+  - Assets/ExampleAssets/Models/brush_low.fbx
+  - Assets/ExampleAssets/Models/small_plane.fbx
+  - Assets/ExampleAssets/Models/Workbench.fbx
+  - Assets/ExampleAssets/Models/Workbench_Low.fbx
+  uvOverlapAssetList: 00000000ffffffff010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000010100000101000001010000000000000101000001010000010100000000000001010000010100000000000000000000000000000101000001010000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce GTX 970
