@@ -13,19 +13,26 @@ public class Player : MonoBehaviour
     #endregion
 
     #region Private Fields
+    [SerializeField]
+    private Transform m_keyboardRoot;
     #endregion
 
     #region MonoBehaviour
-    // Start is called before the first frame update
-    void Start()
+    private void Awake()
     {
-
+        Security.OnEnterRequest += OpenKeyboard;
+        ReceivingTest.OnPlayerSubmitedPassword += CloseKeyboard;
+        EntranceInput.OnBackspacePressed += CloseKeyboard;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void CloseKeyboard()
     {
+        m_keyboardRoot.gameObject.SetActive(false);
+    }
 
+    private void OpenKeyboard()
+    {
+        m_keyboardRoot.gameObject.SetActive(true);
     }
     #endregion
 

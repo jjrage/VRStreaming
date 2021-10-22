@@ -10,7 +10,7 @@ public class Security : MonoBehaviour
     public delegate void GameInfo();
     public static event GameInfo OnGameInfo;
     public delegate void ClubEnter();
-    public static event ClubEnter OnClubEnter;
+    public static event ClubEnter OnEnterRequest;
     #endregion
 
     #region Editor Fields
@@ -57,7 +57,7 @@ public class Security : MonoBehaviour
     private void FaceControllAction()
     {
         Debug.Log("Face controll action proceeded");
-        OnClubEnter?.Invoke();
+        OnEnterRequest?.Invoke();
     }
 
     private void ClubInformationAction()

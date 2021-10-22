@@ -8,8 +8,20 @@ public class EntranceInput : MonoBehaviour
 {
     public TMP_InputField inputField;
 
-    public void SubmitEntrancePassword()
+    public delegate void ReturnEvent(string text);
+    public static ReturnEvent OnReturnPressed;
+    public delegate void BackspaceEvent();
+    public static BackspaceEvent OnBackspacePressed;
+
+    public void OnEnterPressed()
     {
-        ReceivingTest.entrancePasswordSubmited?.Invoke(inputField.text);
+        OnReturnPressed?.Invoke(inputField.text);
+        inputField.text = string.Empty;
+    }
+
+    public void OnEscPressed()
+    {
+        OnBackspacePressed?.Invoke();
+        inputField.text = string.Empty;
     }
 }

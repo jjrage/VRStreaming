@@ -72,7 +72,9 @@ public class RadialMenu : MonoBehaviour
 
         foreach (var action in actions)
         {
-            AddButton(action.Key, action.Value);
+            Action autocloseAction = action.Key;
+            autocloseAction += CloseAction;
+            AddButton(autocloseAction, action.Value);
         }
 
         AddButton(CloseAction, "Close");
