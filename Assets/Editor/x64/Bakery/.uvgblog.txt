@@ -23520,3 +23520,471 @@ Done
 Done
 Done
 Done
+2021-11-1
+Rendering UV GBuffer for Second 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for First 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Main 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for probes 256
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Done
+Done
+Running ftraceRTX fixpos12 "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "uvpos_Second.lz4" 2 0 0 0
+Running ftraceRTX fixpos12 "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "uvpos_First.lz4" 2 0 1 0
+Running ftraceRTX fixpos12 "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "uvpos_Main.lz4" 2 0 2 0
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_795392096_0" 4 0 0 lights0.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_312287055_0" 4 0 0 lights1.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-689448061_0" 4 0 0 lights2.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_839674533_0" 4 0 0 lights3.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1974787390_0" 4 0 0 lights4.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-652616398_0" 4 0 0 lights5.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_976151553_0" 4 0 0 lights6.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1014429011_0" 4 0 0 lights7.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2084004789_0" 4 0 0 lights8.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1282677985_0" 4 0 0 lights9.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_856335357_0" 4 0 0 lights10.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_570183215_0" 4 0 0 lights11.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-838113981_0" 4 0 0 lights12.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_271252588_0" 4 0 0 lights13.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1351784032_0" 4 0 0 lights14.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_935735598_0" 4 0 0 lights15.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1066369564_0" 4 0 0 lights16.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_849379975_0" 4 0 0 lights17.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1812698302_0" 4 0 0 lights18.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1429132241_0" 4 0 0 lights19.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1707115355_0" 4 0 0 lights20.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1566237240_0" 4 0 0 lights21.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1756182693_0" 4 0 0 lights22.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_708069886_0" 4 0 0 lights23.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_21166729_0" 4 0 0 lights24.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1495291679_0" 4 0 0 lights25.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1025232337_0" 4 0 0 lights26.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1835351518_0" 4 0 0 lights27.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_390810987_0" 4 0 0 lights28.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-563735525_0" 4 0 0 lights29.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_673329894_0" 4 0 0 lights30.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1858617142_0" 4 0 0 lights31.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-960093876_0" 4 0 0 lights32.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1699369225_0" 4 0 0 lights33.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_622240029_0" 4 0 0 lights34.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1688867369_0" 4 0 0 lights35.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2084808441_0" 4 0 0 lights36.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1804208487_0" 4 0 0 lights37.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1388364617_0" 4 0 0 lights38.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1888535541_0" 4 0 0 lights39.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2043682250_0" 4 0 0 lights40.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-999117587_0" 4 0 0 lights41.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1165277343_0" 4 0 0 lights42.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_326772148_0" 4 0 0 lights43.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2082087532_0" 4 0 0 lights44.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-631205078_0" 4 0 0 lights45.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_790625610_0" 4 0 0 lights46.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1244445466_0" 4 0 0 lights47.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1512409176_0" 4 0 0 lights48.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1778628951_0" 4 0 0 lights49.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_953024521_0" 4 0 0 lights50.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-889771708_0" 4 0 0 lights51.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_764046875_0" 4 0 0 lights52.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-684592451_0" 4 0 0 lights53.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_65851366_0" 4 0 0 lights54.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1539747725_0" 4 0 0 lights55.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_919218616_0" 4 0 0 lights56.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2140776565_0" 4 0 0 lights57.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1551992339_0" 4 0 0 lights58.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1751657958_0" 4 0 0 lights59.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1512539478_0" 4 0 0 lights60.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-215496727_0" 4 0 0 lights61.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_632683949_0" 4 0 0 lights62.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_701004008_0" 4 0 0 lights63.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1303608842_0" 4 0 0 lights64.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-917494619_0" 4 0 0 lights65.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1661730394_0" 4 0 0 lights66.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-452571433_0" 4 0 0 lights67.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1175071454_0" 4 0 0 lights68.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1340466269_0" 4 0 0 lights69.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-154274568_0" 4 0 0 lights70.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1222902588_0" 4 0 0 lights71.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_924861140_0" 4 0 0 lights72.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-690075854_0" 4 0 0 lights73.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_775653193_0" 4 0 0 lights74.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1969666969_0" 4 0 0 lights75.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1728023186_0" 4 0 0 lights76.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-315537645_0" 4 0 0 lights77.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1996063827_0" 4 0 0 lights78.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-214939036_0" 4 0 0 lights79.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1819320923_0" 4 0 0 lights80.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1178976563_0" 4 0 0 lights81.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-932607497_0" 4 0 0 lights82.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_699291756_0" 4 0 0 lights83.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_76032503_0" 4 0 0 lights84.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1247723924_0" 4 0 0 lights85.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_60260839_0" 4 0 0 lights86.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1398171430_0" 4 0 0 lights87.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1679129110_0" 4 0 0 lights88.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1101165675_0" 4 0 0 lights89.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1535508362_0" 4 0 0 lights90.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_628604048_0" 4 0 0 lights91.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1339882684_0" 4 0 0 lights92.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_962175181_0" 4 0 0 lights93.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-728822461_0" 4 0 0 lights94.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_567913513_0" 4 0 0 lights95.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_548031799_0" 4 0 0 lights96.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1140696291_0" 4 0 0 lights97.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1691888078_0" 4 0 0 lights98.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-960161899_0" 4 0 0 lights99.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1551595360_0" 4 0 0 lights100.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-598569674_0" 4 0 0 lights101.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_158555961_0" 4 0 0 lights102.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-25951321_0" 4 0 0 lights103.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1797081370_0" 4 0 0 lights104.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1169951636_0" 4 0 0 lights105.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1694452835_0" 4 0 0 lights106.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1072303386_0" 4 0 0 lights107.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1375506609_0" 4 0 0 lights108.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_0_15" 4 0 0 batchpointlight_0_0_15.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_16_31" 4 0 0 batchpointlight_0_16_31.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_32_47" 4 0 0 batchpointlight_0_32_47.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_48_63" 4 0 0 batchpointlight_0_48_63.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_64_77" 4 0 0 batchpointlight_0_64_77.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_78_79" 4 0 0 batchpointlight_0_78_79.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_80_95" 4 0 0 batchpointlight_0_80_95.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_96_113" 4 0 0 batchpointlight_0_96_113.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_114_129" 4 0 0 batchpointlight_0_114_129.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_130_146" 4 0 0 batchpointlight_0_130_146.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_147_162" 4 0 0 batchpointlight_0_147_162.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_163_178" 4 0 0 batchpointlight_0_163_178.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_0_179_191" 4 0 0 batchpointlight_0_179_191.bin
+Running ftraceRTX sky "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1141332457_0" 4 0 0 sky0.bin
+Running ftraceRTX addmul "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Second" 4 0 0 comp_0.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_312287055_1" 4 0 1 lights1.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-652616398_1" 4 0 1 lights5.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1351784032_1" 4 0 1 lights14.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_849379975_1" 4 0 1 lights17.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2082087532_1" 4 0 1 lights44.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_65851366_1" 4 0 1 lights54.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2140776565_1" 4 0 1 lights57.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1728023186_1" 4 0 1 lights76.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1679129110_1" 4 0 1 lights88.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1101165675_1" 4 0 1 lights89.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1535508362_1" 4 0 1 lights90.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_628604048_1" 4 0 1 lights91.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1339882684_1" 4 0 1 lights92.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_962175181_1" 4 0 1 lights93.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-728822461_1" 4 0 1 lights94.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_567913513_1" 4 0 1 lights95.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_548031799_1" 4 0 1 lights96.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1140696291_1" 4 0 1 lights97.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1691888078_1" 4 0 1 lights98.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-960161899_1" 4 0 1 lights99.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1551595360_1" 4 0 1 lights100.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-598569674_1" 4 0 1 lights101.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_158555961_1" 4 0 1 lights102.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-25951321_1" 4 0 1 lights103.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1797081370_1" 4 0 1 lights104.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1169951636_1" 4 0 1 lights105.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1694452835_1" 4 0 1 lights106.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1072303386_1" 4 0 1 lights107.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1375506609_1" 4 0 1 lights108.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_0_22" 4 0 1 batchpointlight_1_0_22.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_23_43" 4 0 1 batchpointlight_1_23_43.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_44_66" 4 0 1 batchpointlight_1_44_66.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_67_77" 4 0 1 batchpointlight_1_67_77.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_78_85" 4 0 1 batchpointlight_1_78_85.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_86_113" 4 0 1 batchpointlight_1_86_113.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_114_142" 4 0 1 batchpointlight_1_114_142.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_143_172" 4 0 1 batchpointlight_1_143_172.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_1_173_191" 4 0 1 batchpointlight_1_173_191.bin
+Running ftraceRTX sky "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1141332457_1" 4 0 1 sky0.bin
+Running ftraceRTX addmul "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "First" 4 0 1 comp_1.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_795392096_2" 4 0 2 lights0.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_312287055_2" 4 0 2 lights1.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-689448061_2" 4 0 2 lights2.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_839674533_2" 4 0 2 lights3.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1974787390_2" 4 0 2 lights4.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-652616398_2" 4 0 2 lights5.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_976151553_2" 4 0 2 lights6.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1014429011_2" 4 0 2 lights7.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2084004789_2" 4 0 2 lights8.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1282677985_2" 4 0 2 lights9.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_856335357_2" 4 0 2 lights10.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_570183215_2" 4 0 2 lights11.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-838113981_2" 4 0 2 lights12.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_271252588_2" 4 0 2 lights13.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1351784032_2" 4 0 2 lights14.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_935735598_2" 4 0 2 lights15.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1066369564_2" 4 0 2 lights16.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_849379975_2" 4 0 2 lights17.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1812698302_2" 4 0 2 lights18.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1429132241_2" 4 0 2 lights19.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1707115355_2" 4 0 2 lights20.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1566237240_2" 4 0 2 lights21.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1756182693_2" 4 0 2 lights22.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_708069886_2" 4 0 2 lights23.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_21166729_2" 4 0 2 lights24.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1495291679_2" 4 0 2 lights25.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1025232337_2" 4 0 2 lights26.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1835351518_2" 4 0 2 lights27.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_390810987_2" 4 0 2 lights28.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-563735525_2" 4 0 2 lights29.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_673329894_2" 4 0 2 lights30.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1858617142_2" 4 0 2 lights31.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-960093876_2" 4 0 2 lights32.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1699369225_2" 4 0 2 lights33.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_622240029_2" 4 0 2 lights34.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1688867369_2" 4 0 2 lights35.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2084808441_2" 4 0 2 lights36.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1804208487_2" 4 0 2 lights37.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1388364617_2" 4 0 2 lights38.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1888535541_2" 4 0 2 lights39.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2043682250_2" 4 0 2 lights40.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-999117587_2" 4 0 2 lights41.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1165277343_2" 4 0 2 lights42.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_326772148_2" 4 0 2 lights43.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2082087532_2" 4 0 2 lights44.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-631205078_2" 4 0 2 lights45.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_790625610_2" 4 0 2 lights46.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1244445466_2" 4 0 2 lights47.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1512409176_2" 4 0 2 lights48.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1778628951_2" 4 0 2 lights49.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_953024521_2" 4 0 2 lights50.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-889771708_2" 4 0 2 lights51.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_764046875_2" 4 0 2 lights52.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-684592451_2" 4 0 2 lights53.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_65851366_2" 4 0 2 lights54.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1539747725_2" 4 0 2 lights55.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_919218616_2" 4 0 2 lights56.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2140776565_2" 4 0 2 lights57.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1551992339_2" 4 0 2 lights58.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1751657958_2" 4 0 2 lights59.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1512539478_2" 4 0 2 lights60.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-215496727_2" 4 0 2 lights61.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_632683949_2" 4 0 2 lights62.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_701004008_2" 4 0 2 lights63.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1303608842_2" 4 0 2 lights64.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-917494619_2" 4 0 2 lights65.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1661730394_2" 4 0 2 lights66.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-452571433_2" 4 0 2 lights67.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1175071454_2" 4 0 2 lights68.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1340466269_2" 4 0 2 lights69.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-154274568_2" 4 0 2 lights70.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1222902588_2" 4 0 2 lights71.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_924861140_2" 4 0 2 lights72.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-690075854_2" 4 0 2 lights73.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_775653193_2" 4 0 2 lights74.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1969666969_2" 4 0 2 lights75.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1728023186_2" 4 0 2 lights76.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-315537645_2" 4 0 2 lights77.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1996063827_2" 4 0 2 lights78.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-214939036_2" 4 0 2 lights79.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1819320923_2" 4 0 2 lights80.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1178976563_2" 4 0 2 lights81.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-932607497_2" 4 0 2 lights82.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_699291756_2" 4 0 2 lights83.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_76032503_2" 4 0 2 lights84.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1247723924_2" 4 0 2 lights85.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_60260839_2" 4 0 2 lights86.bin
+Running ftraceRTX texarealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1398171430_2" 4 0 2 lights87.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1679129110_2" 4 0 2 lights88.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1101165675_2" 4 0 2 lights89.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1535508362_2" 4 0 2 lights90.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_628604048_2" 4 0 2 lights91.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1339882684_2" 4 0 2 lights92.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_962175181_2" 4 0 2 lights93.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-728822461_2" 4 0 2 lights94.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_567913513_2" 4 0 2 lights95.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_548031799_2" 4 0 2 lights96.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1140696291_2" 4 0 2 lights97.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1691888078_2" 4 0 2 lights98.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-960161899_2" 4 0 2 lights99.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1551595360_2" 4 0 2 lights100.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-598569674_2" 4 0 2 lights101.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_158555961_2" 4 0 2 lights102.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-25951321_2" 4 0 2 lights103.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1797081370_2" 4 0 2 lights104.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1169951636_2" 4 0 2 lights105.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1694452835_2" 4 0 2 lights106.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1072303386_2" 4 0 2 lights107.bin
+Running ftraceRTX arealight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1375506609_2" 4 0 2 lights108.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_0_15" 4 0 2 batchpointlight_2_0_15.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_16_31" 4 0 2 batchpointlight_2_16_31.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_32_47" 4 0 2 batchpointlight_2_32_47.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_48_63" 4 0 2 batchpointlight_2_48_63.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_64_77" 4 0 2 batchpointlight_2_64_77.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_78_79" 4 0 2 batchpointlight_2_78_79.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_80_95" 4 0 2 batchpointlight_2_80_95.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_96_113" 4 0 2 batchpointlight_2_96_113.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_114_129" 4 0 2 batchpointlight_2_114_129.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_130_146" 4 0 2 batchpointlight_2_130_146.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_147_162" 4 0 2 batchpointlight_2_147_162.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_163_178" 4 0 2 batchpointlight_2_163_178.bin
+Running ftraceRTX batchpointlight "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_2_179_191" 4 0 2 batchpointlight_2_179_191.bin
+Running ftraceRTX sky "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1141332457_2" 4 0 2 sky0.bin
+Running ftraceRTX addmul "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Main" 4 0 2 comp_2.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_795392096_3" 1924 0 3 lights0.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_312287055_3" 1924 0 3 lights1.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-689448061_3" 1924 0 3 lights2.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_839674533_3" 1924 0 3 lights3.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1974787390_3" 1924 0 3 lights4.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-652616398_3" 1924 0 3 lights5.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_976151553_3" 1924 0 3 lights6.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1014429011_3" 1924 0 3 lights7.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2084004789_3" 1924 0 3 lights8.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1282677985_3" 1924 0 3 lights9.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_856335357_3" 1924 0 3 lights10.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_570183215_3" 1924 0 3 lights11.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-838113981_3" 1924 0 3 lights12.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_271252588_3" 1924 0 3 lights13.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1351784032_3" 1924 0 3 lights14.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_935735598_3" 1924 0 3 lights15.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1066369564_3" 1924 0 3 lights16.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_849379975_3" 1924 0 3 lights17.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1812698302_3" 1924 0 3 lights18.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1429132241_3" 1924 0 3 lights19.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1707115355_3" 1924 0 3 lights20.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1566237240_3" 1924 0 3 lights21.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1756182693_3" 1924 0 3 lights22.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_708069886_3" 1924 0 3 lights23.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_21166729_3" 1924 0 3 lights24.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1495291679_3" 1924 0 3 lights25.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1025232337_3" 1924 0 3 lights26.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1835351518_3" 1924 0 3 lights27.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_390810987_3" 1924 0 3 lights28.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-563735525_3" 1924 0 3 lights29.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_673329894_3" 1924 0 3 lights30.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1858617142_3" 1924 0 3 lights31.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-960093876_3" 1924 0 3 lights32.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1699369225_3" 1924 0 3 lights33.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_622240029_3" 1924 0 3 lights34.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1688867369_3" 1924 0 3 lights35.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2084808441_3" 1924 0 3 lights36.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1804208487_3" 1924 0 3 lights37.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1388364617_3" 1924 0 3 lights38.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1888535541_3" 1924 0 3 lights39.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_2043682250_3" 1924 0 3 lights40.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-999117587_3" 1924 0 3 lights41.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1165277343_3" 1924 0 3 lights42.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_326772148_3" 1924 0 3 lights43.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2082087532_3" 1924 0 3 lights44.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-631205078_3" 1924 0 3 lights45.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_790625610_3" 1924 0 3 lights46.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1244445466_3" 1924 0 3 lights47.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1512409176_3" 1924 0 3 lights48.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1778628951_3" 1924 0 3 lights49.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_953024521_3" 1924 0 3 lights50.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-889771708_3" 1924 0 3 lights51.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_764046875_3" 1924 0 3 lights52.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-684592451_3" 1924 0 3 lights53.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_65851366_3" 1924 0 3 lights54.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1539747725_3" 1924 0 3 lights55.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_919218616_3" 1924 0 3 lights56.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-2140776565_3" 1924 0 3 lights57.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1551992339_3" 1924 0 3 lights58.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1751657958_3" 1924 0 3 lights59.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1512539478_3" 1924 0 3 lights60.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-215496727_3" 1924 0 3 lights61.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_632683949_3" 1924 0 3 lights62.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_701004008_3" 1924 0 3 lights63.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1303608842_3" 1924 0 3 lights64.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-917494619_3" 1924 0 3 lights65.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1661730394_3" 1924 0 3 lights66.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-452571433_3" 1924 0 3 lights67.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1175071454_3" 1924 0 3 lights68.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1340466269_3" 1924 0 3 lights69.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-154274568_3" 1924 0 3 lights70.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1222902588_3" 1924 0 3 lights71.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_924861140_3" 1924 0 3 lights72.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-690075854_3" 1924 0 3 lights73.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_775653193_3" 1924 0 3 lights74.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1969666969_3" 1924 0 3 lights75.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1728023186_3" 1924 0 3 lights76.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-315537645_3" 1924 0 3 lights77.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1996063827_3" 1924 0 3 lights78.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-214939036_3" 1924 0 3 lights79.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1819320923_3" 1924 0 3 lights80.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1178976563_3" 1924 0 3 lights81.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-932607497_3" 1924 0 3 lights82.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_699291756_3" 1924 0 3 lights83.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_76032503_3" 1924 0 3 lights84.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1247723924_3" 1924 0 3 lights85.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_60260839_3" 1924 0 3 lights86.bin
+Running ftraceRTX texarealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1398171430_3" 1924 0 3 lights87.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1679129110_3" 1924 0 3 lights88.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1101165675_3" 1924 0 3 lights89.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1535508362_3" 1924 0 3 lights90.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_628604048_3" 1924 0 3 lights91.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1339882684_3" 1924 0 3 lights92.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_962175181_3" 1924 0 3 lights93.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-728822461_3" 1924 0 3 lights94.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_567913513_3" 1924 0 3 lights95.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_548031799_3" 1924 0 3 lights96.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1140696291_3" 1924 0 3 lights97.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1691888078_3" 1924 0 3 lights98.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-960161899_3" 1924 0 3 lights99.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1551595360_3" 1924 0 3 lights100.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-598569674_3" 1924 0 3 lights101.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_158555961_3" 1924 0 3 lights102.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-25951321_3" 1924 0 3 lights103.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1797081370_3" 1924 0 3 lights104.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1169951636_3" 1924 0 3 lights105.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1694452835_3" 1924 0 3 lights106.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_1072303386_3" 1924 0 3 lights107.bin
+Running ftraceRTX arealightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1375506609_3" 1924 0 3 lights108.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_0_15" 1924 0 3 batchpointlight_3_0_15.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_16_31" 1924 0 3 batchpointlight_3_16_31.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_32_47" 1924 0 3 batchpointlight_3_32_47.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_48_63" 1924 0 3 batchpointlight_3_48_63.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_64_77" 1924 0 3 batchpointlight_3_64_77.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_78_79" 1924 0 3 batchpointlight_3_78_79.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_80_95" 1924 0 3 batchpointlight_3_80_95.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_96_113" 1924 0 3 batchpointlight_3_96_113.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_114_129" 1924 0 3 batchpointlight_3_114_129.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_130_146" 1924 0 3 batchpointlight_3_130_146.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_147_162" 1924 0 3 batchpointlight_3_147_162.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_163_178" 1924 0 3 batchpointlight_3_163_178.bin
+Running ftraceRTX batchpointlightprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "PointBatch_3_179_191" 1924 0 3 batchpointlight_3_179_191.bin
+Running ftraceRTX skyprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "light_-1141332457_3" 1924 0 3 sky0.bin
+Running ftraceRTX addmul "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "probes" 4 0 3 comp_3.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Second_diffuse" 4 16 0 "gi_Second0.bin" "Second_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "First_diffuse" 4 16 1 "gi_First0.bin" "First_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Main_diffuse" 4 16 2 "gi_Main0.bin" "Main_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Second_diffuse" 4 16 0 "gi_Second1.bin" "Second_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "First_diffuse" 4 16 1 "gi_First1.bin" "First_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Main_diffuse" 4 16 2 "gi_Main1.bin" "Main_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Second_diffuse" 4 16 0 "gi_Second2.bin" "Second_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "First_diffuse" 4 16 1 "gi_First2.bin" "First_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Main_diffuse" 4 16 2 "gi_Main2.bin" "Main_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Second_diffuse" 4 16 0 "gi_Second3.bin" "Second_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "First_diffuse" 4 16 1 "gi_First3.bin" "First_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Main_diffuse" 4 16 2 "gi_Main3.bin" "Main_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Second_final" 4 16 0 "gi_Second4.bin" "Second_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "First_final" 4 16 1 "gi_First4.bin" "First_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "Main_final" 4 16 2 "gi_Main4.bin" "Main_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgiprobesh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "probes_final" 1924 16 3 "gi_probes4.bin" "probes_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/Second_final_HDR.lz4" "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/Second_final_HDR.lz4" 2048 1
+Running seamfixer "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "0" "Second_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/First_final_HDR.lz4" "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/First_final_HDR.lz4" 512 1
+Running seamfixer "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "1" "First_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/Main_final_HDR.lz4" "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/Main_final_HDR.lz4" 2048 1
+Running seamfixer "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "2" "Main_final_HDR.lz4"
+Running ftraceRTX addsh "C:\Users\MAKSYM~1\AppData\Local\Temp\frender" "probes_final_" 4 0 3 shcomp_3.bin
+Running halffloat2hdr "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/Second_final_HDR.lz4" "F:/Club/VRStreaming/Assets/Club/V3/Second_final.hdr" 1024
+Running halffloat2hdr "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/First_final_HDR.lz4" "F:/Club/VRStreaming/Assets/Club/V3/First_final.hdr" 1024
+Running halffloat2hdr "C:\Users\MAKSYM~1\AppData\Local\Temp\frender/Main_final_HDR.lz4" "F:/Club/VRStreaming/Assets/Club/V3/Main_final.hdr" 1024
+Done
+Done
+Done
+Done
