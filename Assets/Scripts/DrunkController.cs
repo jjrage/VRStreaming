@@ -27,6 +27,11 @@ public class DrunkController : MonoBehaviour
     private float m_soberingSpeed = 0.05f;
     public bool m_isDrunk = false;
     public DrunkState m_currentDrunkStage;
+
+    private float m_maxLensDistortionMultiplierX;
+    private float m_minLensDistortionMultiplierX;
+    private float m_maxLensDistortionMultiplierY;
+    private float m_minLensDistortionMultiplierY;
     #endregion
 
     #region MonoBehaviour
@@ -86,10 +91,10 @@ public class DrunkController : MonoBehaviour
                 vignette.intensity.value = 0;
                 break;
             case DrunkState.State.Tipsy:
-                motionBlur.intensity.value = 0.25f;
-                lensDistortion.intensity.value = -0.25f;
-                lensDistortion.xMultiplier.value = 0.25f;
-                lensDistortion.yMultiplier.value = 0.25f;
+                motionBlur.intensity.value = 0.25f; 
+                lensDistortion.intensity.value = -0.25f; //should be from -0.4 to 0.25
+                lensDistortion.xMultiplier.value = 0.25f; //should be continous from min to max
+                lensDistortion.yMultiplier.value = 0.25f; //should be continous from min to max
                 depthOfField.active = true;
                 depthOfField.gaussianStart.value = 10f;
                 depthOfField.gaussianEnd.value = 30f;
@@ -138,6 +143,21 @@ public class DrunkController : MonoBehaviour
             ChangeDrinkedValue(-m_soberingSpeed);
         }
         m_isDrunk = false;
+    }
+
+    private IEnumerator DrunkProcess()
+    {
+        while (m_drinkedAmount > 0)
+        {
+            yield return null;
+            ChangeDrinkedValue(-m_soberingSpeed);
+        }
+        m_isDrunk = false;
+    }
+
+    private void ChangeContinousValues()
+    {
+
     }
 
     private DrunkState CheckDrunkStage(float drinkedAmount)

@@ -13,21 +13,21 @@
     {
         get
         {
-            return "VRStreaming";
+            return "trial2911";
         }
     }
     internal string SharedKey
     {
         get
         {
-            return "0cd898db1abd408f86aaf2e55146a9820ee86c3c2c5247d39f15f8afd86df093";
+            return "4a41c764ad374139b08a21c5002185928b4c20396d5644f49211ac1204086a8d";
         }
     }
     internal string Gateway
     {
         get
         {
-            return "http://192.168.0.101:8080/sync";
+            return "http://10.10.150.68:8080/sync";
         }
     }
     internal bool AudioOnly

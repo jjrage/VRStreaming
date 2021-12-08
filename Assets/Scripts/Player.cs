@@ -21,8 +21,8 @@ public class Player : MonoBehaviour
     private void Awake()
     {
         Security.OnEnterRequest += OpenKeyboard;
-        ReceivingTest.OnPlayerSubmitedPassword += CloseKeyboard;
-        EntranceInput.OnBackspacePressed += CloseKeyboard;
+        ReceivingTest.OnPlayerSubmitedCorrectPassword += CloseKeyboard;
+        EntranceInput.OnKeyboardExit += CloseKeyboard;
     }
 
     private void CloseKeyboard()

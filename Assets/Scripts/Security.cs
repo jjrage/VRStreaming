@@ -16,6 +16,8 @@ public class Security : MonoBehaviour
     #region Editor Fields
     [SerializeField]
     private XRSimpleInteractable m_interactable;
+    [SerializeField]
+    private Animator m_animator;
     #endregion
 
     #region Private Fields
@@ -28,6 +30,7 @@ public class Security : MonoBehaviour
         m_interactable.selectEntered.AddListener(SecuritySelected);
         m_interactable.selectExited.AddListener(SecuritDeselected);
         m_securityActions = CreateSecurityActions();
+        ReceivingTest.OnPlayerSubmitedCorrectPassword += OpenDoor;
     }
 
     private Dictionary<Action, string> CreateSecurityActions()
@@ -64,6 +67,16 @@ public class Security : MonoBehaviour
     {
         Debug.Log("Club information action proceeded");
         OnGameInfo?.Invoke();
+    }
+
+    private void OpenDoor()
+    {
+        m_animator.SetBool("Opened", true);
+    }
+
+    private void CloseDoor()
+    {
+        m_animator.SetBool("Opened", false);
     }
     #endregion
 }

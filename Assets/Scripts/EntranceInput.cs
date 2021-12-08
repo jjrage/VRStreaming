@@ -9,19 +9,20 @@ public class EntranceInput : MonoBehaviour
     public TMP_InputField inputField;
 
     public delegate void ReturnEvent(string text);
-    public static ReturnEvent OnReturnPressed;
+    public static ReturnEvent OnPasswordSubmited;
     public delegate void BackspaceEvent();
-    public static BackspaceEvent OnBackspacePressed;
+    public static BackspaceEvent OnKeyboardExit;
 
-    public void OnEnterPressed()
+    public void SubmitEntrancePassword()
     {
-        OnReturnPressed?.Invoke(inputField.text);
+        Debug.Log("SubmitEntrancePassword");
+        OnPasswordSubmited?.Invoke(inputField.text);
         inputField.text = string.Empty;
     }
 
-    public void OnEscPressed()
+    public void ExitKeyboard()
     {
-        OnBackspacePressed?.Invoke();
+        OnKeyboardExit?.Invoke();
         inputField.text = string.Empty;
     }
 }
