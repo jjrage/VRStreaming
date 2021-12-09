@@ -66,7 +66,7 @@ public abstract class LocalMedia : RtcLocalMedia<UnityEngine.RectTransform>
     /// </summary>
     protected override VideoEncoder CreateVp8Encoder()
     {
-        return null;
+        return new FM.LiveSwitch.Vp8.Encoder();
     }
 
     /// <summary>

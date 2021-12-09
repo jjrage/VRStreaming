@@ -9,9 +9,8 @@ using UnityEngine.UI;
 
 public class ReceivingTest : MonoBehaviour
 {
-    public delegate void PlayerSubmitPasswordEvent();
-    public static PlayerSubmitPasswordEvent OnPlayerSubmitedCorrectPassword;
-
+    public delegate void OnEntrancePasswordSubmited(string password);
+    public static OnEntrancePasswordSubmited entrancePasswordSubmited;
 
     #region Editor variables
     [SerializeField]
@@ -40,7 +39,7 @@ public class ReceivingTest : MonoBehaviour
     #region Monobehaviour methods
     private void OnEnable()
     {
-        EntranceInput.OnPasswordSubmited += DisplayPassword;
+        entrancePasswordSubmited += DisplayPassword;
         _materialForDisplay.SetTextureScale("_MainTex", new Vector2(-1, 1));
         //_startStreamButton.onClick.AddListener(JoinStream);
         //_leaveStreamButton.onClick.AddListener(Leave);
@@ -52,7 +51,6 @@ public class ReceivingTest : MonoBehaviour
     {
         JoinStream("VRStreaming", password);
         Debug.Log(password);
-        OnPlayerSubmitedCorrectPassword?.Invoke();
     }
 
     private void OnDisable()
@@ -107,7 +105,8 @@ public class ReceivingTest : MonoBehaviour
     #endregion
 
     public void SubmitName(string name)
-    {   
+    {
+        
         Debug.Log(name);
     }
 }

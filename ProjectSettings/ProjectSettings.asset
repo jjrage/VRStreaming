@@ -136,7 +136,6 @@ PlayerSettings:
     Others: 1
   bundleVersion: 1.0
   preloadedAssets:
-  - {fileID: 0}
   - {fileID: 11400000, guid: 714cd6c4f8e652a4a85946ca9fe72491, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -623,19 +622,8 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: BAKERY_INCLUDED;UNITY_POST_PROCESSING_STACK_V2
-    7: BAKERY_INCLUDED;NET_STANDARD_2_0;UNITY_POST_PROCESSING_STACK_V2
-    13: UNITY_POST_PROCESSING_STACK_V2
-    14: UNITY_POST_PROCESSING_STACK_V2
-    19: UNITY_POST_PROCESSING_STACK_V2
-    21: UNITY_POST_PROCESSING_STACK_V2
-    25: UNITY_POST_PROCESSING_STACK_V2
-    27: UNITY_POST_PROCESSING_STACK_V2
-    28: UNITY_POST_PROCESSING_STACK_V2
-    29: UNITY_POST_PROCESSING_STACK_V2
-    30: UNITY_POST_PROCESSING_STACK_V2
-    32: UNITY_POST_PROCESSING_STACK_V2
-    33: UNITY_POST_PROCESSING_STACK_V2
+    1: BAKERY_INCLUDED
+    7: BAKERY_INCLUDED;NET_STANDARD_2_0
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}

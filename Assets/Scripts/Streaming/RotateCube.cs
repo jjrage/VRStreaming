@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class RotateCube : MonoBehaviour
 {
-    public float rotator;
-    public MeshRenderer meshRenderer;
+    private Vector3 landscapeScale= new Vector3(2.5f, 2.5f, 2.5f);
+    private Vector3 portraitScale= new Vector3(2f, 2f, 2f);
+    DeviceOrientation oldOrientation = DeviceOrientation.Unknown;
 
     void Update()
     {
-        meshRenderer.material.SetFloat("_UVSec", 0);
+        gameObject.transform.Rotate(Vector3.up, 30 * Time.deltaTime);
     }
 }
