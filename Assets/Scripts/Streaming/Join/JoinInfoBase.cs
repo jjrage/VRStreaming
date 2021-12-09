@@ -13,14 +13,14 @@
     {
         get
         {
-            return "VRStreaming";
+            return "trial2911";
         }
     }
     internal string SharedKey
     {
         get
         {
-            return "605f7e8e097442488e0b38adb2e218c28039be4906ed4ec8ad455968ecaaa900";
+            return "4a41c764ad374139b08a21c5002185928b4c20396d5644f49211ac1204086a8d";
         }
     }
     internal string Gateway

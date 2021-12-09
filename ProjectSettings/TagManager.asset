@@ -12,12 +12,12 @@ TagManager:
   - Water
   - UI
   - Keyboard
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Door
+  - PostProcessing
+  - Interactable
+  - Hands
+  - Head
   - 
   - 
   - 
