@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 [CreateAssetMenu(fileName = "DrunkState", menuName = "DrunkStates/Create Drunk State", order = 1)]
 public class DrunkState : ScriptableObject
@@ -19,6 +20,13 @@ public class DrunkState : ScriptableObject
     public double minBoundary;
     public double maxBoundary;
     public State state;
+    public VolumeProfile profile;
+    public float minLD;
+    public float maxLD;
+    public float minDOF;
+    public float maxDOF;
+    public float minMB;
+    public float maxMB;
 
     public bool IsInBoundary(float value)
     {

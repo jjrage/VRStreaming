@@ -1237,9 +1237,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 404ae52c7b33de34499fea98f56e71db, type: 2}
   - {fileID: 11400000, guid: 631b7fdb37843a247816e11fa40c34fe, type: 2}
   - {fileID: 11400000, guid: 6ec25b8ad9efd0e4381eb75e56f2bed2, type: 2}
+  m_currentVolume: {fileID: 0}
   m_drinkedAmount: 0
   m_isDrunk: 0
   m_currentDrunkStage: {fileID: 0}
+  m_currentProfile: {fileID: 0}
+  isLDIncreasing: 1
+  m_drunkProccessSpeed: 0.2
 --- !u!1001 &8501604669690751096
 PrefabInstance:
   m_ObjectHideFlags: 0

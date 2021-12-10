@@ -13,21 +13,21 @@
     {
         get
         {
-            return "trial2911";
+            return "testing";
         }
     }
     internal string SharedKey
     {
         get
         {
-            return "4a41c764ad374139b08a21c5002185928b4c20396d5644f49211ac1204086a8d";
+            return "ae8164d18e264f2da966a7b74f987f2e0b13315c3c974a148e80a6260027fca3";
         }
     }
     internal string Gateway
     {
         get
         {
-            return "http://10.10.150.68:8080/sync";
+            return "http://192.168.0.101:8080/sync";
         }
     }
     internal bool AudioOnly

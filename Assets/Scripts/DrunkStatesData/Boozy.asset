@@ -15,3 +15,10 @@ MonoBehaviour:
   minBoundary: 1.1
   maxBoundary: 1.5
   state: 2
+  profile: {fileID: 11400000, guid: 4f1d97d2e1e9fef4e9c3be6ddd5f99b7, type: 2}
+  minLD: -0.5
+  maxLD: 0.3
+  minDOF: 0
+  maxDOF: 0
+  minMB: 0
+  maxMB: 0

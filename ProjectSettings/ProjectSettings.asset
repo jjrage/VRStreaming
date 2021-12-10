@@ -137,6 +137,9 @@ PlayerSettings:
   bundleVersion: 1.0
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 11400000, guid: 714cd6c4f8e652a4a85946ca9fe72491, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -156,6 +159,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.DefaultCompany.VRStreaming
+    Standalone: com.DefaultCompany.VRStreaming
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -365,7 +369,10 @@ PlayerSettings:
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
-  m_BuildTargetGraphicsAPIs: []
+  m_BuildTargetGraphicsAPIs:
+  - m_BuildTarget: AndroidPlayer
+    m_APIs: 0b000000
+    m_Automatic: 0
   m_BuildTargetVRSettings: []
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
